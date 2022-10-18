@@ -2,4 +2,8 @@ hello git
 second
 thrid - my branch
 fourth - my branceh
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 1a27f8e (새로운 기능 1 추가)
